@@ -1,6 +1,6 @@
-# client-skeleton
+# CRUD
 
-> A Vue.js project
+> A small Vue.js CRUD Boilerplate project. This can be easily adapted, integrated, or built off of for operations on a Mongo Database with the help of an Express Server.
 
 ## Build Setup
 
